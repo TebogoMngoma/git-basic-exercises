@@ -1,0 +1,500 @@
+   30  git commit -m 'new folder'
+   31  git add 
+   32  git add .
+   33  git push
+   34  git branch hello
+   35  git clone https://github.com/TebogoMngoma/animated-palm-tree.git
+   36  git clone https://github.com/TebogoMngoma/animated-palm-tree.git
+   37  git branch hello
+   38  git branch working-together
+   39  ls
+   40  open greeting.py
+   41  cd
+   42  git checkout goodbye
+   43  git pull
+   44  git checkout main
+   45  git pull
+   46  git merge goodbye
+   47  git add greetings.py
+   48  git commit
+   49  git clone https://github.com/Alaine911/git-primer.git
+   50  git branch working-together
+   51  ls
+   52  git primer
+   53  gh repo clone TebogoMngoma/animated-palm-tree
+   54  git clone https://github.com/TebogoMngoma/animated-palm-tree.git
+   55  git clone https://github.com/TebogoMngoma/animated-palm-tree.git
+   56  code greetings.py
+   57  git add
+   58  git add .
+   59  git commit -m 'edits'
+   60  git push
+   61  git branch working-together
+   62  ls
+   63  git switch working-together
+   64  code greetings.py
+   65  git add 
+   66  git add .
+   67  git commit -m 'second'
+   68  git push
+   69   git push --set-upstream origin working-together
+   70  git clone https://github.com/Explore-AI/internship-project-2207-16.git
+   71  cd internship-project-2207-16/
+   72  git pull
+   73  git checkout gracious
+   74  git checkout
+   75  git checkout Gracious
+   76  code .
+   77  git pull
+   78  git checkout
+   79  notebooks
+   80  git add .
+   81  git clone [200~https://github.com/Johnporretta/sqlalchemy-challenge.git~\
+   82  git clone https://github.com/saralinevampirequeen/sqlalchemy-challenge.git
+   83  git clone https://github.com/Johnnymtruong/Module-10-Challenge.git
+   84  git clone https://github.com/kgaldes4/sqlalchemy-challenge.git
+   85  git clone https://github.com/Carolpontelli/sqlalchemy-challenge.git
+   86  git clone https://github.com/Johnporretta/sqlalchemy-challenge.git
+   87  git clone https://github.com/Johnporretta/sqlalchemy-challenge.git
+   88  git clone https://github.com/ronaspen/sqlalchemy-challenge.git
+   89  git clone https://github.com/kgaldes4/sqlalchemy-challenge.git
+   90  git clone https://github.com/Carolpontelli/sqlalchemy-challenge.git
+   91  git clone https://github.com/mjkey2/sqlalchemy-challenge.git
+   92  git clone https://github.com/elluis1001/sqlalchemy-challenge.git
+   93  git clone https://github.com/elluis1001/sqlalchemy-challenge.git
+   94  git clone https://github.com/spabalate/UCB_Challenge_10.git
+   95  git clone https://github.com/mavargasvaz/sqlalchemy-challenge.git
+   96  git clone https://github.com/swatik230/SqlAlchemy_Challenge.git
+   97  git clone https://github.com/mavargasvaz/sqlalchemy-challenge.git
+   98  git clone https://github.com/ajturner3/sqlalchemy-challenge.git
+   99  git clone https://github.com/EKellerman/sqlalchemy_challenge.git
+  100  git clone https://github.com/KajK0121/sqlalchemy-challenge.git
+  101  git clone https://github.com/ThomasGardiner/climatesql.git
+  102  git clone https://github.com/sma005/sqlalchemy-challenge.git
+  103  git clone https://github.com/Komissar15/sqlalchemy-challenge.git
+  104  git clone https://github.com/raolson83/sqlalchemy-challenge.git
+  105  git clone https://github.com/AJosephrajan/sqlalchemy-challenge.git
+  106  git clone https://github.com/hmmclean/Module_10_Homework.git
+  107  git clone https://github.com/ruqayyahnur/sqlalchemy-challenge.git
+  108  git clone https://github.com/machaelamadsen/sqlalchemy-challenge.git
+  109  git clone https://github.com/RaeAnnG/sqlalchemy-challenge.git
+  110  git clone https://github.com/hmshoberg/sqlalchemy-challenge.git
+  111  git clone https://github.com/Bukme/sqlalchemy-challenge.git
+  112  git clone https://github.com/audbarrett/sqlalchemy-challenge.git
+  113  git clone https://github.com/stephSanti/sqlalchemy-challenge.git
+  114  git clone https://github.com/JBHinton/-sqlalchemy-challenge.git
+  115  git clone https://github.com/bathl01/sqlalchemy-challenge.git
+  116  git clone https://github.com/Brandon-Nicholson/sqlalchemy-challenge.git
+  117  git clone https://github.com/jasminm1999/sqlalchemy-challenge.git
+  118  git clone https://github.com/sesomluap/sqlalchemy-challenge.git
+  119  git clone https://github.com/campbellthomas1/sqlalchemy-challenge.git
+  120  git clone https://github.com/GarciaLuis0128/sqlalchemy-challenge.git
+  121  git clone https://github.com/navi-08/belly-button-challenge.git
+  122  git clone https://github.com/navi-08/belly-button-challenge.git
+  123  git clone https://github.com/matthill4459/belly-button-challenge.git
+  124  git clone https://github.com/treybreetz/belly-button-challenge.git
+  125  git clone https://github.com/claytonstewart40/belly-button-challenge.git
+  126  git clone https://github.com/navi-08/belly-button-challenge.git
+  127  git clone https://github.com/maldaubenspeck/belly-button-challenge.git
+  128  git clone https://github.com/bassoon03/excel-challenge1.git
+  129  git clone https://github.com/mshaaban1400/belly-button-challenge.git
+  130  git clone https://github.com/elisesirivisal/belly-button-challenge.git
+  131  git clone https://github.com/ac2barreto/Belly-Button-Challenge.git
+  132  git clone https://github.com/stephmcarlson/belly-button-challenge.git
+  133  git clone https://github.com/GwendolineGrenu/CryptoClustering.git
+  134  git clone https://github.com/AnyasorG/sqlalchemy_challenge.git
+  135  git clone https://github.com/JBHinton/no_sql_challenge.git
+  136  git clone https://github.com/wwoliver7/VBA-Challenge.git
+  137  git clone https://github.com/MohaibEI/Home_Sales.git
+  138  git clone https://github.com/MattLantin/web-scraping-challenge.git
+  139  git clone https://github.com/DKogge/VBA-challenge.git
+  140  git clone https://github.com/shecarpic/VBA-Challenge.git
+  141  git clone https://github.com/shecarpic/VBA-Challenge.git
+  142  git clone https://github.com/bpnagle/no-sql-challenge.git
+  143  git clone https://github.com/ggiudice98/sqlalchemy-challenge.git
+  144  git clone https://github.com/casmil28/VBA-challenge.git
+  145  git clone https://github.com/RebeccaWillis4/API.git
+  146  git clone https://github.com/JoeyD256/sql-challenge.git
+  147  git clone https://github.com/SmitaS1/sqlalchemy-challenge.git
+  148  git clone https://github.com/megharani833/credit-risk-classification.git
+  149  git clone https://github.com/drkrenn/credit-risk-classification.git
+  150  git clone https://github.com/Adibats/sqlalchemy-challenge.git
+  151  git clone https://github.com/acwalker5875/leaflet-challenge.git
+  152  git clone https://github.com/acwalker5875/leaflet-challenge.git
+  153  git clone https://github.com/tinalina1003/credit-risk-classification.git
+  154  git clone https://github.com/JakobAnhorn/leaflet-challenge.git
+  155  git clone https://github.com/JaleesMoeen/Credit_Risk_Classification.git
+  156  git clone https://github.com/ericllorente1/CryptoClustering.git
+  157  git clone https://github.com/fishde2020/CryptoClustering.git
+  158  git clone https://github.com/fishde2020/CryptoClustering.git
+  159  git clone https://github.com/Erkab2022/Python-challenge.git
+  160  git clone https://github.com/amydohlin/python-challenge.git
+  161  git clone https://github.com/Thuwaiba2/Python-api-challenge.git
+  162  git clone https://github.com/gthom73/sql-challenge.git\
+  163  git clone https://github.com/adunlap2/Module-4.git
+  164  git clone https://github.com/alymariaa/Module-21---Deep-Learning-Colab.git
+  165  git clone https://github.com/zwblank/sql-challenge.git
+  166  git clone https://github.com/HomarOrtiz/leaflet-challenge.git
+  167  git clone https://github.com/talren95/matplotlib-challenge.git
+  168  git clone https://github.com/camhen94/matplotlib-challenge.git
+  169  git clone https://github.com/bryanpijohnson/webscraping-challenge.git
+  170  git clone https://github.com/Iceaclls/belly-button-challenge.git
+  171  git clone
+  172  git clone https://github.com/Ivette12345/SMU-hw-Sep_2023.git
+  173  git clone https://github.com/SmitaS1/DataCollection.git
+  174  git clone https://github.com/omar-salloum/CryptoClustering.git
+  175  git clone https://github.com/MattLantin/CryptoClustering.git
+  176  git clone https://github.com/sallywangn/CryptoClustering.git
+  177  git clone https://github.com/Seif-Ma/pandas-challenge.git
+  178  git clone https://github.com/amydohlin/pandas-challenge.git
+  179  git clone https://github.com/CONTEMPL8git/pandas-challenge.git
+  180  git clone https://github.com/ndchian/pandas-challenge.git
+  181  git clone https://github.com/santosm12/Pandas-Challenge.git
+  182  git clone https://github.com/kcummings46/pandas-challenge.git
+  183  git clone https://github.com/tonycota/Matplotlib_Challenge.git
+  184  git clone https://github.com/Bashoeb/credit-risk-classification.git
+  185  git clone https://github.com/MissDysart/visualization-challenge.git
+  186  git clone https://github.com/MattLantin/credit-risk-classification.git
+  187  git clone https://github.com/mdh6977/credit-risk-classification.git
+  188  git clone https://github.com/S-haila/credit-risk-classification.git
+  189  git clone https://github.com/44Jacob/Pandas-Analysis.git
+  190  git clone https://github.com/Temi2701/sqlalchemy-challenge.git
+  191  git clone https://github.com/AEKoller/sqlalchemy_challenge.git
+  192  git clone https://github.com/kendoll7/belly-button-challenge.git
+  193  git clone https://github.com/DaSamboni/python-api-challenge.git
+  194  git clone https://github.com/MattySplatties/CryptoClustering.git
+  195  git clone https://github.com/MAliUllah/Python_challenge.git
+  196  git clone https://github.com/jaxontige/Module10_SQLAlchemy.git
+  197  git clone https://github.com/AlyssaCullinan/CryptoClustering.git
+  198  git clone https://github.com/XimenaCasti/Geojson_Leaflet.git
+  199  git clone https://github.com/AXT295/CryptoClustering.git
+  200  git clone https://github.com/techgirlnerd/leaflet-challenge.git
+  201  git clone https://github.com/Gitwonz/belly-button-challenge.git
+  202  git clone https://github.com/treybreetz/CryptoClustering.git
+  203  git clone https://github.com/jbrents100/CryptoClustering.git
+  204  git clone https://github.com/S-haila/CryptoClustering.git
+  205  git clone https://github.com/kunalkhirwar/nosql-challenge.git
+  206  git clone https://github.com/andrew-voortman/CryptoClustering.git
+  207  git clone https://github.com/Umuzi-org/Tebogo-Mngoma-394-bash-for-bootcamp-.git
+  208  git -version
+  209  git clone https://github.com/Umuzi-org/Tebogo-Mngoma-762-contentitem-python.git
+  210  git clone https://github.com/Umuzi-org/Tebogo-Mngoma-761-contentitem-python.git
+  211  git clone https://github.com/Umuzi-org/Tebogo-Mngoma-754-contentitem-python.git
+  212  git clone https://github.com/Umuzi-org/Tebogo-Mngoma-648-bootcamp-exploratory-data-analysis-python.git
+  213  git clone https://github.com/Umuzi-org/Tebogo-Mngoma-219-level-1-programming-katas-python.git
+  214  git checkout main
+  215  git branch task/1
+  216  git checkout main
+  217  git pull
+  218  git checkot -b task/1
+  219  git checkout -b task/1
+  220  git branch
+  221  git add .
+  222  git commit -m "Task 1 completed"
+  223  git push
+  224  git commit
+  225  git checkout main
+  226  git checkout -b task/2
+  227  git add .
+  228  git commit -m "task 2 completed"
+  229  git push
+  230  git push --set-upstream origin task/2
+  231  git push
+  232  git checkout main
+  233  git checkout -b task/3
+  234  git add .
+  235  git commit -m "Task 3 completed"
+  236  git push
+  237  git push --set-upstream origin task/3
+  238  git push
+  239  git checkout main
+  240  git checkout -b task/4
+  241  git add .
+  242  git commit -m "Task 4 completed"
+  243  git push --set-upstream origin task/4
+  244  git push
+  245  git checkout main
+  246  git checkout -b task/5
+  247  git add .
+  248  git commit -m "Task 5 Completed"
+  249  git push --set-upstream origin task/5
+  250  git push
+  251  git checkout main
+  252  git checkout -b task/6
+  253  git add .
+  254  got commit -m "Task 6 completed"
+  255  git commit -m 'Task 6 completed'
+  256  git push --set-upstream origin task/6
+  257  git push
+  258  git checkout main
+  259  git checkout -b task/7
+  260  git add .
+  261  git commit -m 'Task 7 completed'
+  262  git push --set-upstream origin task/7
+  263  git checkout main
+  264  git clone https://github.com/Umuzi-org/Tebogo-Mngoma-958-contentitem-python.git
+  265  git clone https://github.com/Umuzi-org/Tebogo-Mngoma-648-bootcamp-exploratory-data-analysis-python.git
+  266  git add .gitgnore
+  267  git add .gitgnore
+  268  git add .
+  269  git add .
+  270  git commit -m "Activity done"
+  271  git push
+  272  git clone https://github.com/malam300/belly-button-challenge.git
+  273  git clone https://github.com/stevenszx/credit-risk-classification.git
+  274  git clone https://github.com/MacC88/credit-risk-classification.git
+  275  git clone https://github.com/FSOH/credit-risk-classification.git
+  276  git clone https://github.com/juandg93/credit-risk-classification.git
+  277  git clone https://github.com/molleighH/credit-risk-classification.git
+  278  git clone https://github.com/JuanTenopala/credit-risk-classification.git
+  279  git clone https://github.com/tamcu/credit-risk-classification.git
+  280  git clone https://github.com/FoziaY/belly-button-challenge.git
+  281  git clone https://github.com/ILun95425/belly-button-challenge.git
+  282  git clone https://github.com/NathanRosse/HomeSales.git
+  283  git clone https://github.com/Lians03/Belly-button-challenge.git
+  284  git add .
+  285  git commit -m "updated notebook"
+  286  git push
+  287  git checkout main
+  288  git checkout -b Bootcamp Exploratory Data Analysis
+  289  git checkout -b EDA
+  290  git add .
+  291  git commit -m " an update "
+  292  git push
+  293  git push --set-upstream origin EDA
+  294  git checkout main
+  295  git clone https://github.com/TebogoMngoma/git-basic-exercises.git
+  296  cd git-basic-exercises
+  297  ls -a
+  298  git init
+  299  ls -a
+  300  git status
+  301  touch README.md
+  302  ls -a
+  303  git status
+  304  git log
+  305  git add .
+  306  git status
+  307  git commit -m " initial commit "
+  308  git status
+  309  ls -a
+  310  git clone https://github.com/TebogoMngoma/git-basic-exercises.git
+  311  ls -a
+  312  git init
+  313  ls -a
+  314  git status
+  315  touch README.md
+  316  ls -a
+  317  git status
+  318  git log
+  319  git status
+  320  git add
+  321  git add .
+  322  git status
+  323  git status
+  324  git commit -m " initial commit"
+  325  git log
+  326  q
+  327  nano README.md
+  328  cat README.md
+  329  git status
+  330  git commit -m " second commit "
+  331  nano README.md
+  332  cat README.md
+  333  git status
+  334  git commit -m "third commit"
+  335  git log
+  336  git clone https://github.com/TebogoMngoma/git-basic-exercises.git
+  337  cd git-basic-exercises
+  338  ls -a
+  339  git init
+  340  ls -a
+  341  touch README.md
+  342  ls -a
+  343  git status
+  344  git log
+  345  git clone https://github.com/TebogoMngoma/git-basic-exercises.git
+  346  cd git-basic-exercises
+  347  ls -a
+  348  git init
+  349  ls -a
+  350  git status
+  351  touch README.md
+  352  ls -a
+  353  git status
+  354  git log
+  355  git add
+  356  git add .
+  357  git status
+  358  git reset
+  359  git status
+  360  git add .
+  361  git commit -m "initial commit"
+  362  git log
+  363  q
+  364  git log
+  365  qa!
+  366  git log
+  367  nano README.md
+  368  cat README.md
+  369  git status
+  370  git add .
+  371  git commit -m "second commit"
+  372  git log
+  373  nano README.md
+  374  cat README.md
+  375  git add .
+  376  git commit -m "third commit"
+  377  git log
+  378  git checkout 8ef2b2aa19347d299a3f9025fa4efc68c417ca2e
+  379  cat README.md
+  380  git checkout main
+  381  cat README.md
+  382  git branch
+  383  git checkout -b milshake-flavours
+  384  git checkout main
+  385  git checkout -b milkshake-flavours
+  386  nano milkshake.md
+  387  git add .
+  388  git commit -m "added initial flavours"
+  389  git log
+  390  checkout main
+  391  git checkout main
+  392  git checkout -b history
+  393  git log
+  394  git branch
+  395  history > history.txt
+  396  git commit -m "added history"
+  397  git add .
+  398  git commit -m "added history"
+  399  git log
+  400  git checkout milkshake-flavours
+  401  git log
+  402  nano README.md
+  403  git add .
+  404  git commit -m "random readme changes"
+  405  checkout history
+  406  git checkout history
+  407  cat README.md
+  408  rm README.md
+  409  echo "booya" > README.md
+  410  git add .
+  411  git commit -m "rewrote readme" 
+  412  checkout main
+  413  git checkout main
+  414  ls
+  415  git log
+  416  git checkout milkshake-flavours
+  417  ls
+  418  git log
+  419  git checkout history
+  420  ls
+  421  git log
+  422  git checkout main
+  423  git merge milkshake flavours
+  424  ls
+  425  git log
+  426  git merge history
+  427  ls
+  428  ls log
+  429  git log
+  430  git merge milkshake-flavours
+  431  ls
+  432  git log
+  433  git checkout history
+  434  git add README.md
+  435  git commit -m "Resolved merge conflict in README.md"
+  436  git checkout history
+  437  git log
+  438  git checkout milkshake-flavours
+  439  git log
+  440  git checkout history
+  441  git merge main
+  442  git log
+  443  git remote add origin https://github.com/TebogoMngoma/git-basic-exercises.git
+  444  git branch -M main
+  445  git push -u origin main
+  446  git remote add origin https://github.com/TebogoMngoma/git-basic-exercises.git
+  447  git branch -M main
+  448  git push -u origin main
+  449  git remote add origin https://github.com/TebogoMngoma/git-basic-exercises.git
+  450  git branch -M main
+  451  git push -u origin main
+  452  git checkout history
+  453  git fetch
+  454  git branch history
+  455  git branch
+  456  git checkout -t history
+  457  git checkout history
+  458  git push -u origin history
+  459  git checkout milkshake-flavours
+  460  git push -u origin milkshake flavours
+  461  git push -u milkshake-flavours
+  462  git push -u origin milkshake-flavours
+  463  git checkout history
+  464  ls
+  465  git checkout milkshake-flavours
+  466  ls
+  467  git checkout
+  468  git checkout history
+  469  git rm milkshake.md
+  470  git commit -m " deleted file"
+  471  git push origin history
+  472  git clone https://github.com/TebogoMngoma/git-basic-exercises.git
+  473  cd git-basic-exercises
+  474  git init
+  475  touch README.md
+  476  git add .
+  477  git status
+  478  git reset
+  479  git add .
+  480  git commit -m "initial commit"
+  481  git log
+  482  nano README.md
+  483  cat README.md
+  484  git status
+  485  nano README.md
+  486  git push
+  487  git clone https://github.com/TebogoMngoma/git-basic-exercises.git
+  488  cd git-basic-exercises
+  489  nano README.md
+  490  cat README.md
+  491  git status
+  492  git commit -m "second commit"
+  493  git log
+  494  git add .
+  495  git commit -m "second commit"
+  496  git log
+  497  nano README.md
+  498  git add .
+  499  git commit -m "third commit"
+  500  git log
+  501  git clone https://github.com/TebogoMngoma/git-basic-exercises.git
+  502  cd git-basic-exercises
+  503  git init
+  504  touch README.md
+  505  git add .
+  506  git commit -m "initial commit"
+  507  nano README.md
+  508  git add .
+  509  git commit -m "second commit"
+  510  nano README.md
+  511  git add .
+  512  git commit -m "third commit"
+  513  git log
+  514  git checkout 11618fe2e98895e4a2bbe9512688a2600fd01d10
+  515  cat README.md
+  516  git checkout main
+  517  cat README.md
+  518  git branch
+  519  git checkout -b milkshake-flavours
+  520  nano milkshakes.md
+  521  git status
+  522  git add .
+  523  git commit -m "added initial flavours"
+  524  git log
+  525  git checkout main
+  526  git checkout -b history
+  527  git log
+  528  git branch
+  529  history > history.txt

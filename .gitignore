@@ -1,1 +1,5 @@
 /large-directory-that-should-be-local-only
+# Ignore the app_snake.py file
+app_snake.py
+# Ignore the boost.py
+boost.py
